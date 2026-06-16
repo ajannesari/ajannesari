@@ -8,7 +8,7 @@ A passionate **Software Engineer and IT Specialist** transitioning into the worl
 - 📊 **Machine Learning in Bio:** Building robust pipelines for high-throughput biological data analysis.
 
 ### 🛠️ Tech Stack & Skills:
-- **Programming:** Python, Java, SQL , Linux
+- **Programming:** R, Python, Java, SQL , Linux
 - **Data & AI:** Machine Learning Basics, Data Analysis, Pandas, NumPy
 - **Core IT:** Software Engineering, Database Management, System Architecture, Cloud computing , Network protocol :tcp-ip and ...
 - **Soft Skills:** Academic Teaching, Research, Team Mentoring
