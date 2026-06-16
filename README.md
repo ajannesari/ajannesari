@@ -1,4 +1,4 @@
-# Hi there, I'm  Aza Jannesari 👋
+# Hi there, I'm  Azam Jannesari 👋
 
 A passionate **Software Engineer and IT Specialist** transitioning into the world of **Bioinformatics and Computational Biology**. With a solid foundation in software development and over 10 years of experience in academic teaching, I am highly motivated to apply **Artificial Intelligence and Machine Learning** to decode the complexities of genetics and drive breakthroughs in cancer research.
 
