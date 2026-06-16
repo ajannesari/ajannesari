@@ -1,6 +1,11 @@
 # Hi there, I'm  Azam Jannesari 👋
 
-A passionate **Software Engineer and IT Specialist** transitioning into the world of **Bioinformatics and Computational Biology**. With a solid foundation in software development and over 10 years of experience in academic teaching, I am highly motivated to apply **Artificial Intelligence and Machine Learning** to decode the complexities of genetics and drive breakthroughs in cancer research.
+A passionate **Software Engineer and IT Specialist** transitioning into the world of **Bioinformatics and Computational Biology**. With a solid foundation in software development and over 10 years of experience in academic teaching  and research in computer field for example big data, Network Coding and programming, I am highly motivated to apply **Artificial Intelligence and Machine Learning** to decode the complexities of genetics and drive breakthroughs in cancer research.
+
+### 🎓 Academic Background & Thesis Work:
+- 🎓 **M.Sc. in IT - Computer Networks** | Thesis: Focused on *Network Coding* (Mathematical optimization and data transmission efficiency).
+- 🎓 **B.Sc. in Software Engineering** | Thesis: Focused on *Speech Coding* (Signal processing, data compression, and algorithmic efficiency).
+
 
 ### 🧬 Research Interests & Focus:
 - 🔬 **Single-Cell RNA Sequencing (scRNA-seq):** Fascinated by analyzing cellular heterogeneity to understand disease mechanisms.
